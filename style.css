@@ -1,0 +1,103 @@
+.page{
+    width: 23%;
+    height: 800px;
+    margin-left: auto;
+    margin-right: auto;
+    background-color: #fafafa;
+}
+.first-div{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    vertical-align: middle;
+}
+.mobile button{
+    border: none;
+    background-color: #fafafa;
+    margin-top: 20px;
+}
+.name{
+    font-size: 1.6rem;
+    color: #121212;
+    margin-left: 80px;
+    margin-right: 80px;
+    font-family: 'Abril Fatface', cursive;
+}
+.cart{
+    color: #ed7378;  
+}
+.second-div{
+    width: 290px;
+    height: 40px;
+    
+    margin-left: 30px;
+    margin-top: 30px;
+    font-family: 'Coda Caption', sans-serif;}
+/**********************/
+.third-div{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    vertical-align: middle;
+}
+
+.image-style{
+    border-radius: 50%;
+    display: flex;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 20px;
+   
+}
+.item-name{
+    font-size: 1.2rem;
+    font-weight: 900;
+    margin-left: 33px;
+}
+
+.item{
+    background-color: #ffffff;
+    width: 160px;
+    height: 200px;
+    border-radius: 20px;
+    box-shadow: 10px 10px 20px 3px #dbdbdb;
+    margin-right: 10px;
+    margin-left: 10px;
+    margin-top: 70px;
+}
+.fourth-div{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    vertical-align: middle;
+    margin-top: 5px;
+}
+.item-fourth{
+    background-color: #ffffff;
+    width: 160px;
+    height: 200px;
+    border-radius: 20px;
+    box-shadow: 10px 10px 20px 3px #dbdbdb;
+    margin-right: 10px;
+    margin-left: 10px;
+    margin-top: 20px;
+}
+.small-heading{
+    font-size: 1.1rem;
+    margin-right: 30px;
+    margin-left: 30px;
+    width: 310px;
+    height: 80px;
+    margin-top: 20px;
+    line-height: 25px;
+}
+.small-heading p{
+    opacity: 0.5;
+}
+.small-heading hr{
+    width: 25%;
+    float: left;
+    color: #ff4e4e;
+    border: 1px solid #ff4e4e;
+    opacity: none!important;
+}
